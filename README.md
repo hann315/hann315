@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hann's here.
+
+Just coding as a hobby. :ghost:
+
+I'm currently learning:
+<br><br>
+
+
 <!--
 **hann315/hann315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=khw15_)](https://github.com/gazf/github-readme-twitter)
+<details>
+<summary>:trophy: Github Stats</summary>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=hann315">
+<img src="https://github-profile-trophy.vercel.app/?username=hann315">
+</details>
